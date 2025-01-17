@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivanelle Hunt</h1>
 <h3 align="center">A passionate fullstack web developer from Hawaii, now residing in Washington.</h3>
 
-- 🔭 I’m currently working on [Hawaiian Learning Games](Currently not available)
+- 🔭 I’m currently working on my Kama'ilio app, where I help individuals immerse the hawaiian language into their everyday lives.
 
 - 🌱 I’m currently learning **C#, ASP.Net, Unity**
 
